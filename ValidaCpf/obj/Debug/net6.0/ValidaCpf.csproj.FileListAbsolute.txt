@@ -1,0 +1,15 @@
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\bin\Debug\net6.0\ValidaCpf.exe
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\bin\Debug\net6.0\ValidaCpf.deps.json
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\bin\Debug\net6.0\ValidaCpf.runtimeconfig.json
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\bin\Debug\net6.0\ValidaCpf.dll
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\bin\Debug\net6.0\ValidaCpf.pdb
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.csproj.AssemblyReference.cache
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.AssemblyInfoInputs.cache
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.AssemblyInfo.cs
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.csproj.CoreCompileInputs.cache
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.dll
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\refint\ValidaCpf.dll
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.pdb
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ValidaCpf.genruntimeconfig.cache
+C:\Users\Ravel\source\repos\ValidaCpf\ValidaCpf\obj\Debug\net6.0\ref\ValidaCpf.dll
